@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "シャワールームランデブー",
+  "base_artist": "菅原圭",
+  "createdAt": "2026-02-24T03:13:40.946122Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シャワールームランデブー",
+      "artist": "菅原 圭",
+      "has_synced": false,
+      "path": "select/pl_01_シャワールームランデブー_菅原_圭.txt"
+    }
+  ]
+}
